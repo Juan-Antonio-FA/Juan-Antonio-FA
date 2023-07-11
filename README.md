@@ -3,7 +3,7 @@
 <br>
 <h1 align="center"><p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Front-end+Web+Developer;Freelancer;Always%20learning%20new%20things%20about%20technology&center=true&width=500&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Front-end+Web+Developer;Freelancer;Always%20learning%20new%20things%20about%20technology&center=true&width=700&height=45">
 	</a>
 </p></h1>
 <br>
