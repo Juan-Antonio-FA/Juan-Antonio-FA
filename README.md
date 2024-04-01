@@ -23,7 +23,7 @@
   
 - 🤔 Exploring new technologies and developing programming insights.
 
-- 📫 How to reach me **dxl.juan12@gmail.com**
+- 📫 How to reach me **juan.antoniofa01@gmail.com**
 <br>
 
 <!--Github Stats-->
