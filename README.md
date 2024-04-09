@@ -32,13 +32,6 @@
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-antonio-fa&layout=compact&theme=aura&langs_count=9" />
 <img height="150" />
 
-<!--- snake -->
-<br>
-<p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
-<br>
-
 <!--Skills-->
 <h2 font-weight="bold" align="center">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <br>
