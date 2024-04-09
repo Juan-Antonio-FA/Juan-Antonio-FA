@@ -31,7 +31,8 @@
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=juan-antonio-fa&count_private=true&show_icons=true&theme=tokyonight" />
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-antonio-fa&layout=compact&theme=aura&langs_count=9" />
 <img height="150" />
-
+<br><br>
+<div>	
 <!--Skills-->
 <h2 font-weight="bold" align="center">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <br>
@@ -43,7 +44,7 @@
   <img src="https://user-images.githubusercontent.com/76852813/172716937-4574740e-2d2e-4326-af3b-4a42bad058c1.svg">
   <img src="https://user-images.githubusercontent.com/76852813/172720089-5ce0ea22-01c9-4444-8e70-a81501452b13.svg">
 </p>
-
+</div>
 <br>
 
 <p align="center">
