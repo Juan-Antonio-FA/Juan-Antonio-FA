@@ -72,9 +72,4 @@
 </p>
 <br>
 
-<!--Visitor´s count-->
-<p align="center" >   
-  <h4 align="center">Visitor's count 👀</h4>
-  <p align="center"><img src="https://profile-counter.glitch.me/juan-antonio-fa/count.svg" /> </p> 
-</p>
 
