@@ -15,7 +15,7 @@
 
 - 📚 I am currently studying at [@IPN-ESCOM](https://www.escom.ipn.mx/)
 
-- 🌱 I am currently in the race **Computer Systems Engineering**
+- 🌱 I am currently studying **Computer Systems Engineering**
   
 - :heart: My favorite language: C++
   
